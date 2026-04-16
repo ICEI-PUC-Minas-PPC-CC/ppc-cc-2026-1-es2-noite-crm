@@ -1,13 +1,13 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O presente documento tem como objetivo apresentar o desenvolvimento do produto SALVOU, uma aplicação de Customer Relationshop Management (CRM) voltada para microempreendedores individuais (MEIs) e profissionais autônomos brasileiros. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Grande parte dos microempreendedores individuais e profissionais autônomos enfrenta dificuldades na gestão de seus clientes, organização de informações e planejamento de suas atividades comerciais. Esses profissionais, muitas vezes, utilizam métodos informais, como anotações manuais ou aplicativos genéricos, que não atendem de forma adequada às suas necessidades.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Além disso, os sistemas de CRM disponíveis no mercado são, em sua maioria, voltados para empresas de médio e grande porte, apresentando funcionalidades complexas, alto custo e uma curva de aprendizado elevada. Isso acaba dificultando o acesso desses profissionais a ferramentas que poderiam contribuir para a profissionalização de seus negócios.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Dessa forma, há uma lacuna no mercado para soluções simples, acessíveis e adaptadas à realidade dos trabalhadores autônomos brasileiros, que necessitam melhorar o relacionamento com seus clientes, aumentar a fidelização e obter maior previsibilidade financeira.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -16,28 +16,38 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+**Objetivo Geral**
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Desenvolver uma aplicação web de CRM simples, acessível e adaptada à realidade dos microempreendedores individuais e profissionais autônomos brasileiros, com o objetivo de auxiliar na gestão de clientes, organização de informações e melhoria do relacionamento comercial.
+
+**Objetivos Específicos**
+
+1. Permitir o cadastro e gerenciamento de clientes de forma simples e organizada;
+2. Desenvolver funcionalidades para registro de produtos e serviços vinculados aos clientes;
+3. Implementar ferramentas de agendamento de tarefas e compromissos;
+4. Facilitar o acompanhamento do relacionamento com os clientes por meio de histórico e segmentação;
+5. Disponibilizar um dashboard intuitivo com indicadores básicos de desempenho;
+6. Garantir a segurança e privacidade dos dados conforme a LGPD;
+7. Proporcionar uma interface simples, prática e de fácil utilização;
+8. Oferecer uma solução de baixo custo, acessível ao público-alvo;
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O desenvolvimento do software “Salvou” justifica-se pela crescente necessidade de microempreendedores individuais (MEIs) e profissionais autônomos de adotarem ferramentas que auxiliem na organização e gestão de seus negócios, especialmente no que se refere ao relacionamento com clientes. Em um cenário cada vez mais competitivo, a capacidade de manter um bom controle das informações, fidelizar clientes e planejar ações comerciais torna-se um diferencial importante para a sustentabilidade e crescimento desses profissionais.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público-alvo do sistema “Salvou” é composto por microempreendedores individuais (MEIs) e profissionais autônomos brasileiros que necessitam de uma ferramenta simples e eficiente para gerenciar seus clientes e organizar suas atividades comerciais.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Esse público inclui profissionais como manicures, cabeleireiros, vendedores autônomos, prestadores de serviços, entre outros, que atuam de forma independente e buscam melhorar sua organização, aumentar a fidelização de clientes e profissionalizar seus negócios.
+
+Em geral, são usuários que possuem pouco tempo disponível, conhecimento técnico limitado em sistemas complexos e necessidade de soluções práticas, acessíveis e alinhadas à sua rotina de trabalho.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
