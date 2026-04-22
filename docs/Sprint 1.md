@@ -4,8 +4,7 @@
 
 ## Histórias de Usuários
 
-<li><a href="/EngSoftware-I/Salvou%20-%20Historias Detalhadas.pdf"> Histórias Detalhadas</a></li>
-[Ir para Histórias Detalhadas](docs/EngSoftware-I/Salvou%20-%20Historias Detalhadas.pdf)
+<li><a href="/EngSoftware-I/Salvou%20-%20Historias%20Detalhadas.pdf"> Histórias Detalhadas</a></li>
 
 ## Modelagem de Classes
 
