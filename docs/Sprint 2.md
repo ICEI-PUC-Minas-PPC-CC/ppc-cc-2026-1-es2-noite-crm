@@ -4,7 +4,9 @@
 
 ## Diagramas de Classes
 
+Diagrama de classes está na última página do documento: 
 
+<li><a href="/docs/EngSoftware-I/Salvou%20-%20Modelo%20De%20Classes.pdf"> Diagrama de Classes</a></li>
 
 ## Explicação dos Relacionamentos e Justificativa das Decisões
 
