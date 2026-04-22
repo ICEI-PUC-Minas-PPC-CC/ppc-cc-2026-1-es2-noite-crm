@@ -10,7 +10,7 @@
 
 Lista das classes identificadas e responsabilidades de cada classe:
 
-[Modelo de Classes](docs/EngSoftware-I/Salvou - Modelo de Classes.pdf)
+<li><a href="/docs/EngSoftware-I/Salvou%20-%20Modelo%20de%20Classes.pdf"> Modelo de Classes</a></li>
 
 ## Como as histórias dos usuários se conectam com as classes?
 
